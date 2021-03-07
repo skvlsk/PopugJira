@@ -1,6 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopugJira", "PopugJira\PopugJira.csproj", "{7B69157C-150F-431B-A19C-DA5AC03E2F02}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UberPopugInc.Auth", "UberPopugInc.Auth\UberPopugInc.Auth.csproj", "{16583E48-8156-444C-83A6-EED5C34B8D14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopugJira.TaskTracker", "PopugJira.TaskTracker\PopugJira.TaskTracker.csproj", "{91EF774E-2CCB-441F-8F4E-37EE2EA6B6F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopugJira.Accounting", "PopugJira.Accounting\PopugJira.Accounting.csproj", "{2300C95C-BFBD-4111-9498-983BFBEE3611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopugJira.Analytics", "PopugJira.Analytics\PopugJira.Analytics.csproj", "{55DAE89B-D368-4503-A1DA-628ED64D432B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopugJira.Framework", "PopugJira.Framework\PopugJira.Framework.csproj", "{3048CEA1-16C3-4554-8F2A-EB2825840716}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +16,25 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7B69157C-150F-431B-A19C-DA5AC03E2F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7B69157C-150F-431B-A19C-DA5AC03E2F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7B69157C-150F-431B-A19C-DA5AC03E2F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7B69157C-150F-431B-A19C-DA5AC03E2F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16583E48-8156-444C-83A6-EED5C34B8D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16583E48-8156-444C-83A6-EED5C34B8D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16583E48-8156-444C-83A6-EED5C34B8D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16583E48-8156-444C-83A6-EED5C34B8D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91EF774E-2CCB-441F-8F4E-37EE2EA6B6F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91EF774E-2CCB-441F-8F4E-37EE2EA6B6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91EF774E-2CCB-441F-8F4E-37EE2EA6B6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91EF774E-2CCB-441F-8F4E-37EE2EA6B6F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2300C95C-BFBD-4111-9498-983BFBEE3611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2300C95C-BFBD-4111-9498-983BFBEE3611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2300C95C-BFBD-4111-9498-983BFBEE3611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2300C95C-BFBD-4111-9498-983BFBEE3611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55DAE89B-D368-4503-A1DA-628ED64D432B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DAE89B-D368-4503-A1DA-628ED64D432B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DAE89B-D368-4503-A1DA-628ED64D432B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DAE89B-D368-4503-A1DA-628ED64D432B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3048CEA1-16C3-4554-8F2A-EB2825840716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3048CEA1-16C3-4554-8F2A-EB2825840716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3048CEA1-16C3-4554-8F2A-EB2825840716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3048CEA1-16C3-4554-8F2A-EB2825840716}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
